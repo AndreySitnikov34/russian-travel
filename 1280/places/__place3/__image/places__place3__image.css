@@ -1,0 +1,7 @@
+.places__place3__image {
+  width: 460px;
+  height: 460px;
+  background: url(../../../../images/place-altai.jpg);
+  background-size: cover;
+  border: 1px solid red;
+}

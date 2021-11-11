@@ -1,0 +1,1441 @@
+/* 1280 */
+
+position: relative;
+width: 1280px;
+height: 6875px;
+
+background: #2a2c2f;
+
+/* footer */
+
+position: absolute;
+width: 1184px;
+height: 18px;
+left: 48px;
+top: 6833px;
+
+/* __copyright */
+
+position: absolute;
+width: 186px;
+height: 16px;
+left: 1046px;
+top: 6835px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+text-align: right;
+
+color: #ffffff;
+
+/* __link */
+
+position: absolute;
+width: 106px;
+height: 18px;
+left: 407px;
+top: 6833px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #ffffff;
+
+/* __link */
+
+position: absolute;
+width: 86px;
+height: 18px;
+left: 303px;
+top: 6833px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #ffffff;
+
+/* __link */
+
+position: absolute;
+width: 94px;
+height: 18px;
+left: 191px;
+top: 6833px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #ffffff;
+
+/* __link */
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 116px;
+top: 6833px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #ffffff;
+
+/* __link */
+
+position: absolute;
+width: 50px;
+height: 18px;
+left: 48px;
+top: 6833px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #ffffff;
+
+/* cover */
+
+position: absolute;
+width: 1184px;
+height: 740px;
+left: 48px;
+top: 6001px;
+
+/* __background */
+
+position: absolute;
+width: 1184px;
+height: 740px;
+left: 48px;
+top: 6001px;
+
+background: url(.jpg);
+
+/* __overlay */
+
+position: absolute;
+width: 1184px;
+height: 740px;
+left: 48px;
+top: 6001px;
+
+background: #2a2c2f;
+opacity: 0.3;
+
+/* __subtitle */
+
+position: absolute;
+width: 360px;
+height: 66px;
+left: 460px;
+top: 6430px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* or 122% */
+text-align: center;
+
+color: #ffffff;
+
+/* __title */
+
+position: absolute;
+width: 560px;
+height: 152px;
+left: 360px;
+top: 6246px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+text-align: center;
+
+color: #ffffff;
+
+/* places */
+
+position: absolute;
+width: 984px;
+height: 3392px;
+left: 148px;
+top: 2517px;
+
+/* place */
+
+position: absolute;
+width: 984px;
+height: 584px;
+left: 148px;
+top: 5325px;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 348px;
+left: 648px;
+top: 5449px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __website */
+
+position: absolute;
+width: 456px;
+height: 46px;
+left: 648px;
+top: 5355px;
+
+/* __link */
+
+position: absolute;
+width: 456px;
+height: 22px;
+left: 648px;
+top: 5379px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __url-heading */
+
+position: absolute;
+width: 456px;
+height: 12px;
+left: 648px;
+top: 5355px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 170%;
+/* or 20px */
+letter-spacing: 2px;
+
+color: #aaaaaa;
+
+/* __image */
+
+position: absolute;
+width: 460px;
+height: 460px;
+left: 148px;
+top: 5449px;
+
+background: url(.jpg);
+
+/* __title */
+
+position: absolute;
+width: 460px;
+height: 76px;
+left: 148px;
+top: 5325px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* identical to box height, or 106% */
+
+color: #ffffff;
+
+/* place */
+
+position: absolute;
+width: 984px;
+height: 660px;
+left: 148px;
+top: 4585px;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 203px;
+left: 648px;
+top: 4927px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 116px;
+left: 648px;
+top: 4785px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __website */
+
+position: absolute;
+width: 456px;
+height: 46px;
+left: 648px;
+top: 4691px;
+
+/* __link */
+
+position: absolute;
+width: 456px;
+height: 22px;
+left: 648px;
+top: 4715px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __url-heading */
+
+position: absolute;
+width: 456px;
+height: 12px;
+left: 648px;
+top: 4691px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 170%;
+/* or 20px */
+letter-spacing: 2px;
+
+color: #aaaaaa;
+
+/* __image */
+
+position: absolute;
+width: 460px;
+height: 460px;
+left: 148px;
+top: 4785px;
+
+background: url(.jpg);
+
+/* __title */
+
+position: absolute;
+width: 460px;
+height: 152px;
+left: 148px;
+top: 4585px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+
+color: #ffffff;
+
+/* place */
+
+position: absolute;
+width: 984px;
+height: 584px;
+left: 148px;
+top: 3921px;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 174px;
+left: 648px;
+top: 4246px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 174px;
+left: 648px;
+top: 4045px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __website */
+
+position: absolute;
+width: 456px;
+height: 46px;
+left: 648px;
+top: 3951px;
+
+/* __link */
+
+position: absolute;
+width: 456px;
+height: 22px;
+left: 648px;
+top: 3975px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __url-heading */
+
+position: absolute;
+width: 456px;
+height: 12px;
+left: 648px;
+top: 3951px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 170%;
+/* or 20px */
+letter-spacing: 2px;
+
+color: #aaaaaa;
+
+/* __image */
+
+position: absolute;
+width: 460px;
+height: 460px;
+left: 148px;
+top: 4045px;
+
+background: url(.jpg);
+
+/* __title */
+
+position: absolute;
+width: 460px;
+height: 76px;
+left: 148px;
+top: 3921px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* identical to box height, or 106% */
+
+color: #ffffff;
+
+/* place */
+
+position: absolute;
+width: 984px;
+height: 584px;
+left: 148px;
+top: 3257px;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 261px;
+left: 648px;
+top: 3523px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 116px;
+left: 648px;
+top: 3381px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __website */
+
+position: absolute;
+width: 456px;
+height: 46px;
+left: 648px;
+top: 3287px;
+
+/* __link */
+
+position: absolute;
+width: 456px;
+height: 22px;
+left: 648px;
+top: 3311px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __url-heading */
+
+position: absolute;
+width: 456px;
+height: 12px;
+left: 648px;
+top: 3287px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 170%;
+/* or 20px */
+letter-spacing: 2px;
+
+color: #aaaaaa;
+
+/* __image */
+
+position: absolute;
+width: 460px;
+height: 460px;
+left: 148px;
+top: 3381px;
+
+background: url(.jpg);
+
+/* __title */
+
+position: absolute;
+width: 460px;
+height: 76px;
+left: 148px;
+top: 3257px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* identical to box height, or 106% */
+
+color: #ffffff;
+
+/* place */
+
+position: absolute;
+width: 984px;
+height: 660px;
+left: 148px;
+top: 2517px;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 203px;
+left: 648px;
+top: 2888px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __paragraph */
+
+position: absolute;
+width: 484px;
+height: 145px;
+left: 648px;
+top: 2717px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+color: #ffffff;
+
+/* __website */
+
+position: absolute;
+width: 456px;
+height: 46px;
+left: 648px;
+top: 2623px;
+
+/* __link */
+
+position: absolute;
+width: 456px;
+height: 22px;
+left: 648px;
+top: 2647px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __url-heading */
+
+position: absolute;
+width: 456px;
+height: 12px;
+left: 648px;
+top: 2623px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+letter-spacing: 2px;
+
+color: #aaaaaa;
+
+/* __image */
+
+position: absolute;
+width: 460px;
+height: 460px;
+left: 148px;
+top: 2717px;
+
+background: url(.jpg);
+
+/* __title */
+
+position: absolute;
+width: 460px;
+height: 152px;
+left: 148px;
+top: 2517px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+
+color: #ffffff;
+
+/* photo-grid */
+
+position: absolute;
+width: 1184px;
+height: 671px;
+left: 48px;
+top: 1754px;
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 948px;
+top: 2212px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 648px;
+top: 2212px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 348px;
+top: 2212px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 48px;
+top: 2212px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 948px;
+top: 1983px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 648px;
+top: 1983px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 348px;
+top: 1983px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 48px;
+top: 1983px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 948px;
+top: 1754px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 648px;
+top: 1754px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 348px;
+top: 1754px;
+
+background: url(.jpg);
+
+/* __item */
+
+position: absolute;
+width: 284px;
+height: 213px;
+left: 48px;
+top: 1754px;
+
+background: url(.jpg);
+
+/* intro */
+
+position: absolute;
+width: 690px;
+height: 429px;
+left: 148px;
+top: 1233px;
+
+/* __list */
+
+position: absolute;
+width: 690px;
+height: 90px;
+left: 148px;
+top: 1572px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #ffffff;
+
+/* __text */
+
+position: absolute;
+width: 690px;
+height: 208px;
+left: 148px;
+top: 1331px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 163%;
+/* or 26px */
+
+color: #ffffff;
+
+/* __title */
+
+position: absolute;
+width: 690px;
+height: 58px;
+left: 148px;
+top: 1233px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 54px;
+line-height: 58px;
+/* identical to box height, or 107% */
+
+color: #ffffff;
+
+/* lead */
+
+position: absolute;
+width: 984px;
+height: 1005px;
+left: 148px;
+top: 136px;
+
+/* __caption */
+
+position: absolute;
+width: 158px;
+height: 14px;
+left: 148px;
+top: 1127px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height, or 140% */
+letter-spacing: 1.5px;
+text-transform: uppercase;
+
+color: #ffffff;
+
+/* __image */
+
+position: absolute;
+width: 984px;
+height: 615px;
+left: 148px;
+top: 504px;
+
+/* kalegin-michail-179870-unsplash */
+
+position: absolute;
+width: 984px;
+height: 615px;
+left: 148px;
+top: 504px;
+
+background: url(.jpg);
+
+/* Group 4 */
+
+position: absolute;
+width: 937.09px;
+height: 262.99px;
+left: 171.27px;
+top: 594.21px;
+
+/* Vector 2.8 (Stroke) */
+
+position: absolute;
+width: 224.59px;
+height: 886px;
+left: 1075.5px;
+top: 632.61px;
+
+background: #ffffff;
+transform: rotate(90deg);
+
+/* великий новгород */
+
+position: absolute;
+width: 65.82px;
+height: 26.66px;
+left: 240.54px;
+top: 594.21px;
+
+background: #ffffff;
+
+/* псков */
+
+position: absolute;
+width: 39.97px;
+height: 8.71px;
+left: 171.27px;
+top: 739.58px;
+
+background: #ffffff;
+
+/* ТВЕРЬ */
+
+position: absolute;
+width: 37.11px;
+height: 8.48px;
+left: 334.48px;
+top: 771.16px;
+
+background: #ffffff;
+
+/* ЯРОСЛАВЛЬ */
+
+position: absolute;
+width: 73.61px;
+height: 8.71px;
+left: 427.26px;
+top: 796.68px;
+
+background: #ffffff;
+
+/* МАНТУРОВО */
+
+position: absolute;
+width: 75.44px;
+height: 8.71px;
+left: 510.8px;
+top: 726.76px;
+
+background: #ffffff;
+
+/* КОТЕЛЬНИЧ-1 */
+
+position: absolute;
+width: 84.41px;
+height: 8.71px;
+left: 563.31px;
+top: 759.39px;
+
+background: #ffffff;
+
+/* ГЛАЗОВ */
+
+position: absolute;
+width: 46.83px;
+height: 8.71px;
+left: 694.8px;
+top: 804.84px;
+
+background: #ffffff;
+
+/* ПЕРМЬ */
+
+position: absolute;
+width: 40.14px;
+height: 8.48px;
+left: 696.96px;
+top: 729.82px;
+
+background: #ffffff;
+
+/* тюмень */
+
+position: absolute;
+width: 52.33px;
+height: 8.71px;
+left: 769.44px;
+top: 773.38px;
+
+background: #ffffff;
+
+/* омск */
+
+position: absolute;
+width: 34.6px;
+height: 8.71px;
+left: 861.9px;
+top: 799.01px;
+
+background: #ffffff;
+
+/* красноярск */
+
+position: absolute;
+width: 80.86px;
+height: 8.71px;
+left: 972.07px;
+top: 706.95px;
+
+background: #ffffff;
+
+/* улан-удэ */
+
+position: absolute;
+width: 62.54px;
+height: 10.64px;
+left: 1045.82px;
+top: 773.38px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 270.76px;
+top: 629.12px;
+
+background: #272722;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 270.76px;
+top: 629.12px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 185px;
+top: 723.7px;
+
+background: #131313;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 185px;
+top: 723.7px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 379.04px;
+top: 771.59px;
+
+background: #4d5648;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 379.04px;
+top: 771.59px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 411.35px;
+top: 797.03px;
+
+background: #47443e;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 411.35px;
+top: 797.03px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 499.54px;
+top: 738.01px;
+
+background: #93a47c;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 499.54px;
+top: 738.01px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 577.26px;
+top: 777.7px;
+
+background: #738f8c;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 577.26px;
+top: 777.7px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 679.43px;
+top: 805.17px;
+
+background: #789186;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 679.43px;
+top: 805.17px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 712.61px;
+top: 745.14px;
+
+background: #8cbabb;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 712.61px;
+top: 745.14px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 769.37px;
+top: 790.93px;
+
+background: #414847;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 769.37px;
+top: 790.93px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 875.03px;
+top: 775.66px;
+
+background: #577379;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 875.03px;
+top: 775.66px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 1009.96px;
+top: 720.71px;
+
+background: #3e403a;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 1009.96px;
+top: 720.71px;
+
+background: #ffffff;
+
+/* Ellipse */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 1073px;
+top: 752.83px;
+
+background: #181a19;
+
+/* Ellipse (Stroke) */
+
+position: absolute;
+width: 6.99px;
+height: 8.14px;
+left: 1073px;
+top: 752.83px;
+
+background: #ffffff;
+
+/* __subtitle */
+
+position: absolute;
+width: 640px;
+height: 72px;
+left: 320px;
+top: 368px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+/* or 120% */
+text-align: center;
+
+color: #ffffff;
+
+/* __title */
+
+position: absolute;
+width: 720px;
+height: 200px;
+left: 280px;
+top: 136px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+/* or 104% */
+text-align: center;
+
+color: #ffffff;
+
+/* header */
+
+position: absolute;
+width: 1184px;
+height: 52px;
+left: 48px;
+top: 28px;
+
+/* __lang-link */
+
+position: absolute;
+width: 29px;
+height: 28px;
+left: 1203px;
+top: 46px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+text-align: right;
+
+color: #ffffff;
+
+/* __lang-link */
+
+position: absolute;
+width: 30px;
+height: 28px;
+left: 1155px;
+top: 46px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+text-align: right;
+text-decoration-line: underline;
+
+color: #ffffff;
+
+/* __logo */
+
+position: absolute;
+width: 176px;
+height: 52px;
+left: 48px;
+top: 28px;
+
+background: #ffffff;

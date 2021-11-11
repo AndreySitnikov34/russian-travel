@@ -1,0 +1,7 @@
+.place__paragraph {
+  display: flex;
+  margin: 0 auto 26px 0;
+  font-size: 18px;
+  line-height: 29.34px;
+  border: 1px solid red;
+}

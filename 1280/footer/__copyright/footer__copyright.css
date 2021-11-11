@@ -1,0 +1,6 @@
+.footer__copyright {
+  align-self: flex-end;
+  /* text-align: right; */
+  /* float: right; */
+  border: 1px solid red;
+}
