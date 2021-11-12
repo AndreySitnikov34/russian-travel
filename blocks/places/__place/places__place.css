@@ -1,0 +1,10 @@
+.places__place {
+  margin: 92px auto 0;
+  background-color: brown;
+  display: grid;
+  grid-template-columns: 460px 460px;
+  grid-template-rows: 152px 460px;
+  gap: 48px 40px;
+  /* box-shadow: 0 0 5px white; */
+  /* border: 1px solid red; */
+}
