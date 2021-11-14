@@ -1,19 +1,28 @@
 .intro__title {
-  /* position: absolute; */
   margin: 0;
   width: 690px;
-  height: 58px;
-  left: 148px;
-  top: 1233px;
-
-  /* font-family: Inter; */
   font-style: normal;
   /* font-weight: 900; */
   font-size: 54px;
   line-height: 58px;
   /* identical to box height, or 107% */
-
   color: #ffffff;
-
   border: 1px solid red;
+}
+@media (max-width: 767px) {
+  .intro__title {
+    width: 99vw;
+    font-size: 7vw;
+    line-height: 110%;
+    background-color: #faeedd;
+  }
+}
+@media (max-width: 320px) {
+  .intro__title {
+    /* width: 288px; */
+    /* margin: 0 16px; */
+    /* font-size: 40px; */
+    /* line-height: 110%; */
+    background-color: orange;
+  }
 }

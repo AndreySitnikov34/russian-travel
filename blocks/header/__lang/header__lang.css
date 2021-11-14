@@ -4,5 +4,6 @@
   /* text-align: center; */
   align-items: center;
   /* justify-content: space-between; */
+  list-style-type: none;
   border: 1px solid red;
 }

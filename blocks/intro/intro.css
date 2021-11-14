@@ -1,7 +1,39 @@
 .intro {
-  width: 984px;
+  max-width: 984px;
+  min-width: 769px;
+  width: auto;
   display: flex;
   flex-direction: column;
-  margin: 114px auto auto;
+  margin: 92px auto auto;
   border: 1px solid red;
+}
+@media (max-width: 1024px) {
+  .intro {
+    max-width: 1024px;
+    min-width: 769px;
+    margin-top: 88px;
+    background-color: indianred;
+  }
+}
+@media (max-width: 768px) {
+  .intro {
+    max-width: 768px;
+    min-width: 426px;
+    margin-top: 88px;
+    background-color: indianred;
+  }
+}
+@media (max-width: 425px) {
+  .intro {
+    max-width: 425px;
+    min-width: 321px;
+    margin-top: 64px;
+    background-color: darkviolet;
+  }
+}
+@media (max-width: 320px) {
+  .intro {
+    /* margin-top: 64px; */
+    background-color: olivedrab;
+  }
 }

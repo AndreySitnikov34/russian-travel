@@ -1,5 +1,5 @@
-.places__place__website {
-  width: 456px;
+.place__website {
+  width: 35vw;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

@@ -1,7 +1,19 @@
 .place__text {
-  width: 460px;
+  width: 484px;
   display: flex;
   flex-direction: column;
   box-shadow: 0 0 15px white;
   /* border: 1px solid red; */
+}
+@media (max-width: 1024px) {
+  .place__text {
+    min-width: 456px;
+    background-color: indianred;
+  }
+}
+@media (max-width: 768px) {
+  .place__text {
+    min-width: 352px;
+    background-color: indianred;
+  }
 }

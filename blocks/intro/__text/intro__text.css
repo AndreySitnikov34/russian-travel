@@ -1,18 +1,20 @@
 .intro__text {
-  /* position: absolute; */
+  /* margin: 0; */
   width: 690px;
   height: 208px;
-  left: 148px;
-  top: 1331px;
-
-  /* font-family: Inter; */
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 163%;
   /* or 26px */
-
   color: #ffffff;
-
   border: 1px solid red;
+}
+@media (max-width: 767px) {
+  .intro__text {
+    width: 95vw;
+    height: auto;
+    /* margin: 0 auto; */
+    background-color: #faeedd;
+  }
 }

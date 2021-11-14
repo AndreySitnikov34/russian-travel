@@ -8,3 +8,10 @@
   z-index: 1;
   border: 1px solid red;
 }
+@media (max-width: 425px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+    background-size: cover;
+  }
+}

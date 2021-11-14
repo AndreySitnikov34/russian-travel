@@ -13,3 +13,11 @@
   color: #ffffff;
   border: 1px solid red;
 }
+@media (max-width: 425px) {
+  .header__lang-link {
+    width: 22px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
