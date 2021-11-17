@@ -1,4 +1,4 @@
-.header__lang_link {
+.header__lang-ru {
   /* position: absolute; */
   width: 30px;
   height: 28px;
@@ -13,10 +13,10 @@
   text-align: right;
   text-decoration-line: underline;
   color: #ffffff;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 @media (max-width: 425px) {
-  .header__lang_link {
+  .header__lang-ru {
     width: 22px;
     height: 20px;
     font-size: 18px;

@@ -1,40 +1,36 @@
 .header {
-  margin: 48px 3vw 0; /*Центрирование блока*/
-  background: #faeedd; /*Цвет блока*/
+  margin: 28px 3vw 0; /*Центрирование блока*/
   max-width: 1600px; /*Максимальная ширина при больших разрешениях*/
   min-width: 300px; /*Минимальная ширина при маленьких разрешениях*/
   width: auto; /*Ширина в зависимости от разрешения экрана*/
+  height: 5vh;
   display: flex;
   justify-content: space-between;
-  background-color: #c9beb0;
+  box-shadow: 0 0 15px white;
 }
 @media (max-width: 1600px) {
   .header {
-    margin: 48px 28px 0;
-    background-color: darkgray;
+    margin: 28px 28px 0;
   }
 }
 @media (max-width: 1024px) {
   .header {
-    margin: 48px 28px 0;
-    background-color: aquamarine;
+    margin: 28px 28px 0;
   }
 }
 @media (max-width: 768px) {
   .header {
     margin: 28px 24px 0;
-    background-color: indianred;
   }
 }
 @media (max-width: 425px) {
   .header {
     margin: 16px 16px 0;
-    background-color: darkviolet;
   }
 }
 @media (max-width: 320px) {
   .header {
+    width: 288px;
     margin: 16px 16px 0;
-    background-color: olivedrab;
   }
 }

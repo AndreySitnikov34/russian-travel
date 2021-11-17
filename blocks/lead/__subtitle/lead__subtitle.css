@@ -1,11 +1,6 @@
 .lead__subtitle {
-  /* position: absolute; */
   margin: 32px auto 0;
   width: 640px;
-  /* height: 72px; */
-  /* left: 320px; */
-  /* top: 368px; */
-  /* font-family: Inter; */
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
@@ -13,7 +8,7 @@
   /* or 120% */
   text-align: center;
   color: #ffffff;
-  border: 1px solid red;
+  box-shadow: 0 0 15px white;
 }
 @media (max-width: 767px) {
   .lead__subtitle {
@@ -21,7 +16,6 @@
     margin: 32px 64px 0;
     font-size: 4vw;
     line-height: 110%;
-    background-color: #faeedd;
   }
 }
 @media (max-width: 425px) {
@@ -30,15 +24,13 @@
     margin: 16px auto 0;
     font-size: 16px;
     line-height: 110%;
-    background-color: #faeedd;
   }
 }
 @media (max-width: 320px) {
   .lead__subtitle {
-    width: 288px;
+    width: auto;
     margin: 16px 16px 0;
     font-size: 16px;
     line-height: 110%;
-    background-color: orange;
   }
 }

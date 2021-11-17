@@ -1,5 +1,6 @@
 .place__link {
   margin: 0;
+  /* width: 100%; */
   color: #fff;
   font-size: 18px;
   line-height: 22px;
@@ -7,5 +8,7 @@
 }
 .place__link:hover {
   opacity: 0.8;
-  cursor: pointer;
+  /* transform: scale(1.1);
+  transition: transform 0.4s ease-out;
+  cursor: pointer; */
 }

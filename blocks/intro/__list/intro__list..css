@@ -1,8 +1,9 @@
 .intro__list {
-  min-width: 288px;
-  height: 90px;
+  width: auto;
+  padding: 0;
+  /* height: 90px;
   left: 148px;
-  top: 1572px;
+  top: 1572px; */
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -12,5 +13,6 @@
   line-height: 18px;
   /* or 150% */
   color: #ffffff;
-  border: 1px solid red;
+  list-style-type: none;
+  box-shadow: 0 0 15px white;
 }

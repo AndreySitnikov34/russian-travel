@@ -1,5 +1,5 @@
 .place__website {
-  width: 35vw;
+  /* width: auto; */
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

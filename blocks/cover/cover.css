@@ -1,32 +1,18 @@
 .cover {
-  width: 1184px;
-  margin: 92px auto 0;
   position: relative;
-  border: 1px solid red;
+  background-image: cover;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  width: 91vw;
+  padding-top: 58%;
+  /* height: auto; */
+  margin: 92px 48px 0;
+  box-shadow: 0 0 7px white;
 }
-@media (max-width: 1280px) {
-  .cover {
-    background-color: #faeedd;
-  }
-}
-@media (max-width: 1024px) {
-  .cover {
-    max-width: 1024px;
-    max-height: 640px;
-    background-color: aquamarine;
-  }
-}
-@media (max-width: 768px) {
-  .cover {
-    max-width: 768px;
-    max-height: 480px;
-    background-color: indianred;
-  }
-}
-@media (max-width: 320px) {
-  .cover {
-    max-width: 320px;
-    max-height: 200px;
-    background-color: olivedrab;
-  }
+.cover::before {
+  display: block; /* отображать элемент как блок */
+  content: ""; /* содержимое псевдоэлемента */
+  width: 100%; /* ширина элемента */
 }

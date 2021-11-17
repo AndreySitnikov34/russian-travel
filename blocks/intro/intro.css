@@ -5,35 +5,31 @@
   display: flex;
   flex-direction: column;
   margin: 92px auto auto;
-  border: 1px solid red;
+  box-shadow: 0 0 15px white;
 }
 @media (max-width: 1024px) {
   .intro {
     max-width: 1024px;
-    min-width: 769px;
-    margin-top: 88px;
-    background-color: indianred;
+    min-width: auto;
+    margin: 92px 48px 0;
   }
 }
 @media (max-width: 768px) {
   .intro {
     max-width: 768px;
-    min-width: 426px;
-    margin-top: 88px;
-    background-color: indianred;
+    /* min-width: 426px; */
+    margin: 88px 24px 0;
   }
 }
 @media (max-width: 425px) {
   .intro {
-    max-width: 425px;
-    min-width: 321px;
-    margin-top: 64px;
-    background-color: darkviolet;
+    /* max-width: 425px; */
+    margin: 64px 16px 0;
   }
 }
 @media (max-width: 320px) {
   .intro {
-    /* margin-top: 64px; */
-    background-color: olivedrab;
+    width: 90vw;
+    margin: 64px 16px 0;
   }
 }

@@ -1,35 +1,29 @@
 .lead__image {
   margin: 64px auto 0;
-  min-width: 984px;
-  min-height: 615px;
-  background: url(../../../images/lead-polka.jpg);
-  background-size: contain;
+  width: 100%;
+  background-size: cover;
+  box-shadow: 0 0 15px white;
 }
-/* @media (max-width: 1279px) {
-  .lead {
-    width: 928px;
-    background-color: #faeedd;
-  }
-} */
+
 @media (max-width: 1024px) {
   .lead__image {
-    min-width: 768px;
-    min-height: 480px;
+    /* min-width: 768px;
+    min-height: 480px; */
     margin-top: 56px;
   }
 }
 @media (max-width: 768px) {
   .lead__image {
-    min-width: 425px;
-    min-height: 265px;
+    /* min-width: 425px;
+    min-height: 265px; */
     /* margin: 28px 24px 0; */
     background-size: cover;
   }
 }
 @media (max-width: 425px) {
   .lead__image {
-    min-width: 320px;
-    min-height: 200px;
+    /* min-width: 320px;
+    min-height: 200px; */
     margin-top: 40px;
   }
 }

@@ -1,0 +1,13 @@
+.cover__text {
+  position: absolute;
+  left: 22vw;
+  top: 22vh;
+  /* padding-top: 42.5%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid red;
+}

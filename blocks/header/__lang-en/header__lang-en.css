@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__lang-en {
   /* position: absolute; */
   width: 30px;
   height: 28px;
@@ -11,10 +11,10 @@
   /* identical to box height, or 117% */
   text-align: right;
   color: #ffffff;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 @media (max-width: 425px) {
-  .header__lang-link {
+  .header__lang-en {
     width: 22px;
     height: 20px;
     font-size: 18px;

@@ -1,9 +1,15 @@
 .footer {
-  width: 1184px;
+  width: 92.5%;
   margin: 92px auto 24px;
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  border: 1px solid red;
+  /* flex-wrap: nowrap; */
+  align-items: center;
+  /* justify-content: space-between; */
+  box-shadow: 0 0 7px white;
+}
+@media (max-width: 425px) {
+  .footer {
+    flex-direction: column;
+  }
 }

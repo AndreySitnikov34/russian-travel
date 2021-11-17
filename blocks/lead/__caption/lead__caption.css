@@ -11,5 +11,5 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #ffffff;
-  border: 1px solid red;
+  box-shadow: 0 0 15px white;
 }
