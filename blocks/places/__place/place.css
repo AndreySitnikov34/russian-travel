@@ -7,20 +7,20 @@
   /* grid-template-rows: 1fr 460px; */
   gap: 48px 40px;
   /* box-shadow: 0 0 5px white; */
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 @media (max-width: 1024px) {
   .place {
     grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
     gap: 48px 32px;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
   }
 }
 @media (max-width: 768px) {
   .place {
     grid-template-columns: minmax(300px, 1fr) minmax(330px, 1fr);
     gap: 48px 28px;
-    background-color: indianred;
+    /* background-color: indianred; */
   }
 }
 /* Для эксперимента */
@@ -28,13 +28,13 @@
   .place {
     grid-template-columns: 1fr;
     gap: 42px 28px;
-    background-color: indianred;
+    /* background-color: indianred; */
   }
 }
 @media (max-width: 320px) {
   .place {
     grid-template-columns: 1fr;
     gap: 32px;
-    background-color: olivedrab;
+    /* background-color: olivedrab; */
   }
 }

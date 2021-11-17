@@ -9,10 +9,8 @@
   /* height: 100%; */
   background-size: cover;
   z-index: -1;
-  border: 3px dotted white;
-  /* box-shadow: 0 0 7px white; */
 }
-.cover__image:before {
+/* .cover__image:before {
   position: absolute;
   content: "";
   width: 100%;
@@ -25,4 +23,4 @@
 }
 .cover__image:hover .cover__image:before {
   background-color: rgb(42, 44, 47, 0.8);
-}
+} */

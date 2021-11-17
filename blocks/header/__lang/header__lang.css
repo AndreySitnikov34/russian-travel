@@ -1,5 +1,6 @@
 .header__lang {
   display: flex;
+  padding: 0;
   /* flex-direction: row; */
   /* text-align: center; */
   align-items: center;

@@ -10,7 +10,7 @@
   font-size: 96px;
   line-height: 104%;
   color: #ffffff;
-  box-shadow: 0 0 15px white;
+  /* box-shadow: 0 0 15px white; */
 }
 @media (max-width: 768px) {
   .lead__title {

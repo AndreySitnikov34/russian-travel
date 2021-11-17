@@ -8,13 +8,13 @@
   line-height: 163%;
   /* or 26px */
   color: #ffffff;
-  box-shadow: 0 0 15px white;
+  /* box-shadow: 0 0 15px white; */
 }
 @media (max-width: 768px) {
   .intro__text {
     width: 90vw;
     height: auto;
     /* margin: 0 auto; */
-    background-color: #faeedd;
+    /* background-color: #faeedd; */
   }
 }

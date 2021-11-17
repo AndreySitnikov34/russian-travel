@@ -6,7 +6,7 @@
   /* flex-wrap: nowrap; */
   align-items: center;
   /* justify-content: space-between; */
-  box-shadow: 0 0 7px white;
+  /* box-shadow: 0 0 7px white; */
 }
 @media (max-width: 425px) {
   .footer {

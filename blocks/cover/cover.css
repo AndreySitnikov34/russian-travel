@@ -9,10 +9,34 @@
   padding-top: 58%;
   /* height: auto; */
   margin: 92px 48px 0;
-  box-shadow: 0 0 7px white;
+  /* box-shadow: 0 0 7px white; */
 }
 .cover::before {
   display: block; /* отображать элемент как блок */
   content: ""; /* содержимое псевдоэлемента */
   width: 100%; /* ширина элемента */
 }
+@media (max-width: 1024px) {
+  .cover {
+    width: 100%;
+    margin: 92px 0;
+  }
+}
+@media (max-width: 768px) {
+  .cover {
+    width: 100%;
+    margin: 90px 0;
+  }
+}
+@media (max-width: 425px) {
+  .cover {
+    width: 100%;
+    margin: 70px 0;
+  }
+}
+@media (max-width: 320px) {
+  .cover {
+    width: 100%;
+    margin: 66px 0;
+  }
+} ;

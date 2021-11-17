@@ -5,5 +5,5 @@
   grid-template-columns: repeat(auto-fill, minmax(250px, 3fr));
   gap: 16px;
   list-style-type: none;
-  box-shadow: 0 0 15px white;
+  /* box-shadow: 0 0 15px white; */
 }

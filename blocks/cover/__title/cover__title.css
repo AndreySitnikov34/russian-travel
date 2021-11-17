@@ -11,29 +11,14 @@
   text-decoration: none;
   color: #ffffff;
   z-index: 1;
-  box-shadow: 0 0 7px white;
-}
-@media (max-width: 1024px) {
-  .cover__title {
-    /* margin-left: 22vw;
-    margin-top: -41vh; */
-    /* background-color: aquamarine; */
-  }
-}
-@media (max-width: 768px) {
-  .cover__title {
-    /* margin-left: 12.5vw;
-    margin-top: -33.5vh; */
-    /* background-color: indianred; */
-  }
+  /* box-shadow: 0 0 7px white; */
 }
 @media (max-width: 320px) {
   .cover__title {
-    /* width: auto;
+    width: 80vw;
     font-size: 32px;
-    line-height: 35px; */
+    line-height: 35px;
     /* margin: -15vh 10vw 0; */
-    /* margin-top: -15vh; */
     /* background-color: olivedrab; */
   }
 }

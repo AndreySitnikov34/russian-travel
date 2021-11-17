@@ -8,7 +8,7 @@
   /* or 120% */
   text-align: center;
   color: #ffffff;
-  box-shadow: 0 0 15px white;
+  /* box-shadow: 0 0 15px white; */
 }
 @media (max-width: 767px) {
   .lead__subtitle {

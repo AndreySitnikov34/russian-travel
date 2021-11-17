@@ -4,7 +4,7 @@
   color: #fff;
   font-size: 18px;
   line-height: 22px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .place__link:hover {
   opacity: 0.8;

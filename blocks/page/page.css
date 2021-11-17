@@ -5,26 +5,26 @@
 }
 @media (max-width: 1280px) {
   .page {
-    background-color: #313a44;
+    /* background-color: #313a44; */
   }
 }
 @media (max-width: 1024px) {
   .page {
-    background-color: #454b53;
+    /* background-color: #454b53; */
   }
 }
 @media (max-width: 768px) {
   .page {
-    background-color: indianred;
+    /* background-color: indianred; */
   }
 }
 @media (max-width: 425px) {
   .page {
-    background-color: darkviolet;
+    /* background-color: darkviolet; */
   }
 }
 @media (max-width: 320px) {
   .page {
-    background-color: olivedrab;
+    /* background-color: olivedrab; */
   }
 }

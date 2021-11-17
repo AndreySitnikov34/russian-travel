@@ -11,25 +11,20 @@
   color: #ffffff;
   z-index: 1;
   text-decoration: none;
-  box-shadow: 0 0 7px white;
+  /* box-shadow: 0 0 7px white; */
 }
 @media (max-width: 1024px) {
   .cover__subtitle {
-    /* margin-left: 31vw;
-    margin-top: -24vh; */
   }
 }
 @media (max-width: 768px) {
   .cover__subtitle {
-    /* margin-left: 25vw;
-    margin-top: -16vh; */
   }
 }
 @media (max-width: 320px) {
   .cover__subtitle {
-    width: auto;
+    width: 70vw;
     font-size: 14px;
-    /* line-height: 16px;
-    margin: -7vh 6vw 0; */
+    line-height: 16px;
   }
 }

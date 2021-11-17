@@ -2,6 +2,6 @@
   width: auto;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 0 15px white;
+  /* box-shadow: 0 0 15px white; */
   /* border: 1px solid red; */
 }
