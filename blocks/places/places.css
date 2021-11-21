@@ -1,34 +1,35 @@
 .places {
   /* max-width: calc(984px + 148px * 2); */
-  width: 76.875%;
-  margin: 0 148px 0;
+  /* width: 76.875%; */
+  margin: 0 auto;
+  margin: 0 48px;
   /* border: 1px solid green; */
 }
-@media (max-width: 1280px) {
-  .places {
-    max-width: calc(928px + 48px * 2);
-    margin-left: 148px;
-    /* background-color: #faeedd; */
-  }
-}
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .places {
     width: auto;
-    margin: 0 48px 0;
-    /* background-color: aquamarine; */
+    margin: 0 48px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .places {
-    max-width: 768px;
-    margin-left: 24px;
-    /* background-color: indianred; */
+    margin: 0 24px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .places {
-    margin: 0;
-    width: 93vw;
+    margin: 24px;
+  }
+}
+@media (max-width: 424px) {
+  .places {
+    margin: 0 24px;
+  }
+}
+@media (max-width: 319px) {
+  .places {
+    margin: 64px auto;
+    width: 92vw;
     /* min-width: 320px; */
     /* background-color: olivedrab; */
   }

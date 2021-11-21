@@ -1,13 +1,12 @@
 .cover__text {
-  position: absolute;
-  left: 23.5vw;
-  top: 22vh;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
-  /* align-content: center; */
   align-items: center;
-  /* border: 1px solid red; */
+  justify-content: center;
+  width: auto;
+  text-decoration: none;
+  /* z-index: 2; */
+  box-shadow: 0 0 5px white;
 }
 @media (max-width: 1024px) {
   .cover__text {
@@ -29,7 +28,7 @@
 }
 @media (max-width: 320px) {
   .cover__text {
-    left: 5vw;
+    /* left: auto; */
     top: 2vh;
   }
 }

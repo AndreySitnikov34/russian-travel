@@ -1,24 +1,45 @@
 .cover__title {
-  /* position: absolute; */
   width: 560px;
   margin: 0;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
+  line-height: 1.06;
   /* or 106% */
   text-align: center;
-  text-decoration: none;
-  color: #ffffff;
   z-index: 1;
   /* box-shadow: 0 0 7px white; */
 }
-@media (max-width: 320px) {
+/* Чтобы придать резиновость, переведу пиксели (фиксированные значения) в относительные единицы. И сделаю всё внутренними отступами */
+@media (max-width: 1279px) {
   .cover__title {
     width: 80vw;
     font-size: 32px;
     line-height: 35px;
     /* margin: -15vh 10vw 0; */
-    /* background-color: olivedrab; */
+  }
+}
+@media (max-width: 1023px) {
+  .cover__title {
+    width: 80vw;
+    font-size: 32px;
+    line-height: 35px;
+    /* margin: -15vh 10vw 0; */
+  }
+}
+@media (max-width: 767px) {
+  .cover__title {
+    width: 80vw;
+    font-size: 32px;
+    line-height: 35px;
+    /* margin: -15vh 10vw 0; */
+  }
+}
+@media (max-width: 424px) {
+  .cover__title {
+    width: 80vw;
+    font-size: 32px;
+    line-height: 35px;
+    /* margin: -15vh 10vw 0; */
   }
 }

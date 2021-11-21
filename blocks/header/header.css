@@ -1,5 +1,5 @@
 .header {
-  margin: 28px 3vw 0; /*Центрирование блока*/
+  margin: 28px 28px 0; /*Центрирование блока*/
   max-width: 1600px; /*Максимальная ширина при больших разрешениях*/
   min-width: 250px; /*Минимальная ширина при маленьких разрешениях*/
   width: auto; /*Ширина в зависимости от разрешения экрана*/
@@ -8,29 +8,14 @@
   justify-content: space-between;
   /* box-shadow: 0 0 15px white; */
 }
-@media (max-width: 1600px) {
-  .header {
-    margin: 28px 28px 0;
-  }
-}
-@media (max-width: 1024px) {
-  .header {
-    margin: 28px 28px 0;
-  }
-}
-@media (max-width: 768px) {
+
+@media (max-width: 767px) {
   .header {
     margin: 28px 24px 0;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 424px) {
   .header {
     margin: 16px 16px 0;
-  }
-}
-@media (max-width: 320px) {
-  .header {
-    /* width: 100%; */
-    margin: 16px;
   }
 }

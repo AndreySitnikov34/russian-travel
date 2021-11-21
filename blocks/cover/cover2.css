@@ -1,0 +1,48 @@
+.cover2 {
+  position: relative;
+  margin: 92px auto 0;
+  max-width: 1184px;
+  min-height: 740px;
+  /* padding-top: 48%; */
+  box-shadow: 0 0 5px white;
+}
+.cover2::before {
+  display: block; /* отображать элемент как блок */
+  content: ""; /* содержимое псевдоэлемента */
+  width: 100%; /* ширина элемента */
+  /* opacity: 0.8; */
+  /* margin-top: -5%; */
+}
+@media (max-width: 1279px) {
+  .cover2 {
+    max-width: 1023px;
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover2 {
+    margin-top: 90px;
+    max-width: 1023px;
+    min-height: 640px;
+  }
+}
+@media (max-width: 767px) {
+  .cover2 {
+    margin-top: 75px;
+    max-width: 100%;
+    min-height: calc(100vw / 1.6);
+    margin: 0;
+    background-size: cover;
+  }
+}
+@media (max-width: 424px) {
+  .cover2 {
+    margin-top: 66px;
+  }
+}
+@media (max-width: 320px) {
+  .cover2 {
+    /* margin: 66px 0; */
+  }
+} ;

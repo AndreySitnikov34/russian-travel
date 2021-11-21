@@ -1,10 +1,7 @@
 .lead__title {
-  margin: 56px 3vw 0; /*Центрирование блока*/
-  max-width: 1600px; /*Максимальная ширина при больших разрешениях*/
-  min-width: 300px; /*Минимальная ширина при маленьких разрешениях*/
-  width: auto; /*Ширина в зависимости от разрешения экрана*/
-  margin: 0 auto;
+  margin: 0 auto; /*Центрирование блока*/
   width: 720px;
+  font-family: "Inter";
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
@@ -12,18 +9,26 @@
   color: #ffffff;
   /* box-shadow: 0 0 15px white; */
 }
+@media (max-width: 1024px) {
+  .lead__title {
+    width: auto;
+    margin: 0 6vw;
+    font-size: 11vw;
+    line-height: 110%;
+  }
+}
 @media (max-width: 768px) {
   .lead__title {
     width: auto;
-    /* margin: 0 16px; */
-    font-size: 12vw;
+    margin: 0 10vw;
+    font-size: 10vw;
     line-height: 110%;
   }
 }
 @media (max-width: 425px) {
   .lead__title {
-    /* width: 288px; */
-    /* margin: 0 16px; */
+    width: 288px;
+    margin: 0 auto;
     font-size: 40px;
     /* line-height: 110%; */
   }

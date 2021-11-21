@@ -8,7 +8,7 @@
   /* justify-content: space-between; */
   /* box-shadow: 0 0 7px white; */
 }
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .footer {
     flex-direction: column;
   }

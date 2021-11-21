@@ -1,5 +1,4 @@
 .header__lang-ru {
-  /* position: absolute; */
   width: 30px;
   height: 28px;
   right: 95px;
@@ -9,13 +8,12 @@
   font-weight: normal;
   font-size: 24px;
   line-height: 28px;
-  /* identical to box height, or 117% */
   text-align: right;
   text-decoration-line: underline;
   color: #ffffff;
   /* border: 1px solid red; */
 }
-@media (max-width: 425px) {
+@media (max-width: 424px) {
   .header__lang-ru {
     width: 22px;
     height: 20px;
