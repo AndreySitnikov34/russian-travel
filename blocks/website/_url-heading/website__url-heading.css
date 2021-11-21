@@ -1,7 +1,10 @@
 .website__url-heading {
-  /* width: 100%; */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
   margin-bottom: 12px;
   font-size: 12px;
-  line-height: 12px;
+  line-height: 170%;
+  letter-spacing: 2px;
   /* border: 1px solid red; */
 }

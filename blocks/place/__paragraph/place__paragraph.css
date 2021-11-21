@@ -1,24 +1,17 @@
 .place__paragraph {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
   width: auto;
   display: flex;
   margin: 0 auto 26px;
-  font-size: 18px;
-  line-height: 29px;
   /* box-shadow: 0 0 5px white; */
   /* border: 1px solid red; */
 }
-/* Для эксперимента */
-@media (max-width: 425px) {
+@media (max-width: 424px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 26px;
-    /* background-color: indianred; */
-  }
-}
-@media (max-width: 320px) {
-  .place__paragraph {
-    font-size: 16px;
-    line-height: 26px;
-    /* background-color: olivedrab; */
   }
 }
