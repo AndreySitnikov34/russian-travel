@@ -1,6 +1,6 @@
 # Russia-travel
 
-https://github.com/AndreySitnikov34/russian-travel.git
+https://andreysitnikov34.github.io/russian-travel
 
 Проектная работа "Путешествия по России"
 
