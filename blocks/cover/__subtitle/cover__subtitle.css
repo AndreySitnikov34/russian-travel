@@ -7,23 +7,26 @@
   line-height: 22px;
   /* or 122% */
   text-align: center;
-  color: #ffffff;
+  /* color: #ffffff; */
   z-index: 1;
-  text-decoration: none;
+  /* text-decoration: none; */
   /* box-shadow: 0 0 7px white; */
 }
 @media (max-width: 1024px) {
   .cover__subtitle {
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .cover__subtitle {
+    max-width: 50%;
+    font-size: 1.125em;
+    line-height: 122%;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 620px) {
   .cover__subtitle {
-    width: 70vw;
-    font-size: 14px;
-    line-height: 16px;
+    width: 90%;
+    font-size: 0.875em;
+    line-height: 1em;
   }
 }

@@ -1,41 +1,48 @@
 .cover {
   position: relative;
-  background-image: cover;
-  display: flex;
-  flex-direction: column;
-  /* justify-content: center; */
-  align-items: center;
-  width: 91vw;
-  padding-top: 52%;
-  /* height: auto; */
-  margin: 92px 48px 0;
-  text-decoration: none;
-  /* box-shadow: 0 0 7px white; */
+  margin: 92px auto 0;
+  max-width: 1184px;
+  min-height: 740px;
+  /* padding-top: 48%; */
+  /* box-shadow: 0 0 5px white; */
 }
 .cover::before {
   display: block; /* отображать элемент как блок */
-  content: "♥"; /* содержимое псевдоэлемента */
-  width: 50%; /* ширина элемента */
-  opacity: 0.8;
-  margin-top: -35%;
+  content: ""; /* содержимое псевдоэлемента */
+  width: 100%; /* ширина элемента */
+  /* opacity: 0.8; */
+  /* margin-top: -5%; */
 }
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .cover {
-    margin: 92px 0;
+    max-width: 1023px;
+    min-height: 640px;
   }
 }
-@media (max-width: 768px) {
+
+@media (max-width: 1023px) {
   .cover {
-    margin: 90px 0;
+    margin-top: 90px;
+    max-width: 1023px;
+    min-height: 640px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .cover {
-    margin: 70px 0;
+    margin-top: 75px;
+    max-width: 100%;
+    min-height: calc(100vw / 1.6);
+    margin: 0;
+    background-size: cover;
+  }
+}
+@media (max-width: 424px) {
+  .cover {
+    margin-top: 66px;
   }
 }
 @media (max-width: 320px) {
   .cover {
-    margin: 66px 0;
+    /* margin: 66px 0; */
   }
 } ;

@@ -5,26 +5,26 @@
 }
 @media (max-width: 1279px) {
   .page {
-    background-color: #313a44;
+    /* background-color: #313a44; */
   }
 }
 @media (max-width: 1023px) {
   .page {
-    background-color: #314c6e;
+    /* background-color: #314c6e; */
   }
 }
 @media (max-width: 767px) {
   .page {
-    background-color: rgb(160, 102, 102);
+    /* background-color: rgb(160, 102, 102); */
   }
 }
 @media (max-width: 424px) {
   .page {
-    background-color: rgb(133, 63, 133);
+    /* background-color: rgb(133, 63, 133); */
   }
 }
 @media (max-width: 320px) {
   .page {
-    background-color: rgb(80, 92, 80);
+    /* background-color: rgb(80, 92, 80); */
   }
 }
