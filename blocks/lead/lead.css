@@ -8,29 +8,28 @@
   padding: 80px auto 0;
   text-align: center;
   flex-direction: column;
-  /* align-items: center; */
   /* border: 5px dotted whitesmoke; */
   /* box-shadow: 0 0 15px white; */
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .lead {
     margin: 48px 48px 0;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .lead {
+    width: 100%;
     margin: 48px 0 0;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 424px) {
   .lead {
-    margin: 16px 16px 0;
+    margin: 16px 0 0;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 319px) {
   .lead {
-    width: 100%;
     margin: 16px 0 0;
   }
 }
