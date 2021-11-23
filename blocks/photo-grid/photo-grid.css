@@ -3,7 +3,11 @@
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 3fr));
-  gap: 16px;
+  gap: 12.5px 17.5px;
   list-style-type: none;
-  /* box-shadow: 0 0 15px white; */
+}
+@media (max-width: 1279px) {
+  .photo-grid {
+    gap: 11.6px 16px;
+  }
 }

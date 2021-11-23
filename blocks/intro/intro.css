@@ -5,25 +5,29 @@
   display: flex;
   flex-direction: column;
   margin: 92px auto auto;
-  /* box-shadow: 0 0 15px white; */
 }
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
+  .intro {
+    max-width: 100%;
+    min-width: auto;
+    margin: 84px 48px 0;
+  }
+}
+@media (max-width: 1023px) {
   .intro {
     max-width: 1024px;
     min-width: auto;
     margin: 92px 48px 0;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro {
     max-width: 768px;
-    /* min-width: 426px; */
     margin: 88px 24px 0;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 424px) {
   .intro {
-    /* max-width: 425px; */
     margin: 64px 16px 0;
   }
 }

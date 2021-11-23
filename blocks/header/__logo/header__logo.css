@@ -1,12 +1,11 @@
 .header__logo {
   width: 176px;
   height: 52px;
-  left: 48px;
-  top: 28px;
+  /* margin-left: 18px; */
+  /* top: 28px; */
   background: url(../../../images/header-logo.svg);
   color: #ffffff;
   z-index: 1;
-  /* border: 1px solid red; */
 }
 @media (max-width: 425px) {
   .header__logo {

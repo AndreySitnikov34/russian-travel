@@ -1,43 +1,37 @@
 .lead__title {
   margin: 0 auto; /*Центрирование блока*/
   width: 720px;
-  font-family: "Inter";
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
   line-height: 104%;
   color: #ffffff;
-  /* box-shadow: 0 0 15px white; */
 }
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .lead__title {
     width: auto;
     margin: 0 6vw;
-    font-size: 11vw;
-    line-height: 110%;
+    font-size: 96px;
+    line-height: 104%;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .lead__title {
     width: auto;
-    margin: 0 10vw;
+    margin: 0 6vw;
     font-size: 10vw;
     line-height: 110%;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 767px) {
+  .lead__title {
+    margin: 0 10vw;
+  }
+}
+@media (max-width: 424px) {
   .lead__title {
     width: 288px;
     margin: 0 auto;
     font-size: 40px;
-    /* line-height: 110%; */
-  }
-}
-@media (max-width: 320px) {
-  .lead__title {
-    /* width: 288px; */
-    /* margin: 0 16px; */
-    font-size: 40px;
-    /* line-height: 110%; */
   }
 }

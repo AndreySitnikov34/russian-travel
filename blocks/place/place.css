@@ -1,17 +1,20 @@
 .place {
-  margin: 92px 0 0;
+  margin: 0;
+  padding-top: 77.5px;
   width: auto;
   display: grid;
   box-sizing: border-box;
   grid-template-columns: minmax(460px, 1fr) minmax(484px, 1fr);
   gap: 48px 40px;
-  /* box-shadow: 0 0 5px white; */
 }
 /* Ступенчато-резиновая вёрстка, как мне кажется... */
 @media (max-width: 1279px) {
   .place {
     grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
     gap: 48px 32px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 6.5vh;
   }
 }
 @media (max-width: 1023px) {
@@ -23,14 +26,12 @@
 @media (max-width: 767px) {
   .place {
     grid-template-columns: minmax(288px, 1fr) minmax(303px, 1fr);
-    gap: 48px 28px;
   }
 }
 /* Не могу победить горизонтальный скролл, придётся добавить пару лишних медиазапросов. */
 @media (max-width: 665px) {
   .place {
     grid-template-columns: minmax(250px, 1fr) minmax(263px, 1fr);
-    gap: 48px 28px;
   }
 }
 /* Для эксперимента */
@@ -43,13 +44,5 @@
 @media (max-width: 424px) {
   .place {
     grid-template-columns: minmax(288px, 1fr);
-    gap: 32px;
   }
 }
-/* @media (max-width: 320px) {
-  .place {
-    margin: 64px 1vw 0;
-    grid-template-columns: 1fr;
-    gap: 32px;
-  }
-} */

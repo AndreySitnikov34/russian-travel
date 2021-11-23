@@ -1,0 +1,24 @@
+.header__lang-link {
+  margin-right: 18px;
+  padding-bottom: 5px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  color: #ffffff;
+}
+.header__lang-link:hover {
+  transform: scale(1.05);
+  transition: transform 0.4s ease-out;
+  cursor: pointer;
+}
+.header__lang-link:last-child {
+  margin: 0;
+}
+@media (max-width: 424px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

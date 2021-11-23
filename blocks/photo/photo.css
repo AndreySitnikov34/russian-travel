@@ -1,7 +1,10 @@
 .photo {
   width: 92.5%;
   margin: 92px auto 0;
-  /* width: 100%;
-  margin: 92px 48px 0; */
-  /* box-shadow: 0 0 15px white; */
+}
+@media (max-width: 1279px) {
+  .photo {
+    width: 90.5%;
+    margin: 92px auto 0;
+  }
 }
