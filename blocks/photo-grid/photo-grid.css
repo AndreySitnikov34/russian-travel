@@ -11,3 +11,8 @@
     gap: 11.6px 16px;
   }
 }
+@media (max-width: 424px) {
+  .photo-grid {
+    gap: 0.77vh;
+  }
+}

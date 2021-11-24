@@ -3,3 +3,8 @@
   flex-direction: column;
   justify-content: flex-end;
 }
+@media (max-width: 424px) {
+  .place__website {
+    margin-left: 5vw;
+  }
+}

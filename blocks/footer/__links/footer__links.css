@@ -11,3 +11,9 @@
     flex-direction: column;
   }
 }
+@media (max-width: 424px) {
+  .footer__links {
+    height: 25.5vh;
+    justify-content: space-between;
+  }
+}

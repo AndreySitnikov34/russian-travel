@@ -14,13 +14,14 @@
     gap: 48px 32px;
     margin: 0;
     padding: 0;
-    margin-bottom: 6.5vh;
+    margin-bottom: 7.3vh;
   }
 }
 @media (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
     gap: 48px 28px;
+    margin-bottom: 4.5vh;
   }
 }
 @media (max-width: 767px) {
@@ -44,5 +45,10 @@
 @media (max-width: 424px) {
   .place {
     grid-template-columns: minmax(288px, 1fr);
+    gap: 31px;
+    margin-bottom: 2.4vh;
+  }
+  .place:last-child {
+    margin: 0;
   }
 }

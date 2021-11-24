@@ -11,7 +11,7 @@
 }
 @media (max-width: 767px) {
   .cover__subtitle {
-    max-width: 50%;
+    max-width: 90%;
     font-size: 1.125em;
     line-height: 122%;
   }
@@ -21,5 +21,14 @@
     width: 90%;
     font-size: 0.875em;
     line-height: 1em;
+  }
+}
+@media (max-width: 424px) {
+  .cover__subtitle {
+    padding: 1.5vh 0 0;
+    margin: 0 1vw;
+    width: 90%;
+    font-size: 14px;
+    line-height: 114%;
   }
 }

@@ -11,8 +11,20 @@
     width: 90.5%;
   }
 }
+@media (max-width: 1023px) {
+  .footer {
+    width: 94%;
+    margin: 8.8vh auto 2vh;
+  }
+}
 @media (max-width: 600px) {
   .footer {
     flex-direction: column;
+  }
+}
+@media (max-width: 424px) {
+  .footer {
+    margin-top: 4.5vh;
+    align-items: flex-start;
   }
 }

@@ -23,3 +23,8 @@
 .cover:hover .cover__background::before {
   background-color: rgba(42, 44, 47, 0.8);
 }
+@media (max-width: 1023px) {
+  .cover__background {
+    height: 49.5vh;
+  }
+}

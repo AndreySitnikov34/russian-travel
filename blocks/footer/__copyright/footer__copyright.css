@@ -8,11 +8,21 @@
   font-size: 1.25vw;
   line-height: 16px;
 }
+@media (max-width: 1023px) {
+  .footer__copyright {
+    font-size: 2.05vw;
+  }
+}
 @media (max-width: 600px) {
   .footer__copyright {
     margin-top: 48px;
     line-height: 14px;
     text-align: left;
     align-self: flex-start;
+  }
+}
+@media (max-width: 424px) {
+  .footer__copyright {
+    font-size: 5vw;
   }
 }
