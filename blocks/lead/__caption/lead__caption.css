@@ -19,7 +19,7 @@
 }
 @media (max-width: 1023px) {
   .lead__caption {
-    margin-left: 3vw;
+    margin: 0.9vh 0 0 3vw;
   }
 }
 @media (max-width: 767px) {

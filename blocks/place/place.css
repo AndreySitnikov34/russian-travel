@@ -12,7 +12,6 @@
   .place {
     grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
     gap: 48px 32px;
-    margin: 0;
     padding: 0;
     margin-bottom: 7.3vh;
   }
@@ -20,8 +19,8 @@
 @media (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
-    gap: 48px 28px;
-    margin-bottom: 4.5vh;
+    gap: 4.5vh 3.5vw;
+    margin-bottom: 4.95vh;
   }
 }
 @media (max-width: 767px) {

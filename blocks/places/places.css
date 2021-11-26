@@ -11,7 +11,7 @@
 }
 @media (max-width: 1023px) {
   .places {
-    margin: 9.2vh 24px 0;
+    margin: 9.4vh 24px 0;
   }
 }
 @media (max-width: 767px) {
@@ -21,12 +21,6 @@
 }
 @media (max-width: 424px) {
   .places {
-    margin: 6.5vh 0 0;
-  }
-}
-@media (max-width: 319px) {
-  .places {
-    margin: 64px auto;
-    width: 92vw;
+    margin: 6.8vh 0 0;
   }
 }

@@ -2,6 +2,12 @@
   margin: 64px auto 0;
   width: 76vw;
 }
+@media (min-width: 1440px) {
+  .lead__image {
+    margin: 6vh auto 0;
+    width: 100%;
+  }
+}
 @media (max-width: 1279px) {
   .lead__image {
     margin: 6vh auto 0;
