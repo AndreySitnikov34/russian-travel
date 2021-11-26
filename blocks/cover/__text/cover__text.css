@@ -1,6 +1,7 @@
 .cover__text {
   width: 100%;
-  min-height: 76.5vh;
+  position: absolute;
+  top: 241px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,16 +9,21 @@
 }
 @media (max-width: 1279px) {
   .cover__text {
-    min-height: 66vh;
+    top: 190px;
   }
 }
 @media (max-width: 1023px) {
   .cover__text {
-    min-height: 49.5vh;
+    top: 110px;
+  }
+}
+@media (max-width: 767px) {
+  .cover__text {
+    top: 36px;
   }
 }
 @media (max-width: 424px) {
   .cover__text {
-    min-height: 20.6vh;
+    top: 33px;
   }
 }

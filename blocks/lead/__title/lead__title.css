@@ -15,7 +15,7 @@
 }
 @media (max-width: 1023px) {
   .lead__title {
-    line-height: 10.5vh;
+    /* line-height: 10.5vh; */
   }
 }
 @media (max-width: 767px) {
