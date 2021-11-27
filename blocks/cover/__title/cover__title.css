@@ -1,25 +1,27 @@
 .cover__title {
-  width: 560px;
-  margin: 0;
-  padding: 0.6vh 0 26px;
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 20.9% 0 26px;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 106%;
   text-align: center;
-  text-decoration: none;
   color: #ffffff;
-  z-index: 1;
+}
+@media (max-width: 1279px) {
+  .cover__title {
+    padding: 20.2vh 0 26px;
+  }
 }
 @media (max-width: 1023px) {
   .cover__title {
-    padding: 0.6vh 0 26px;
+    padding: 11.7vh 0 26px;
   }
 }
 /* Начиная с этого разрешения, и до вертикальной ориентации, шрифт должен стать резиновым */
 @media (max-width: 767px) {
   .cover__title {
-    max-width: 70%;
     font-size: 9.38vw;
     line-height: 9.9vw;
     padding: 20% 0 3%;
@@ -29,6 +31,6 @@
   .cover__title {
     font-size: 32px;
     line-height: 36px;
-    padding: 0;
+    padding: 10.2% 0 3%;
   }
 }
