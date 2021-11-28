@@ -2,3 +2,8 @@
   width: 100%;
   background-size: cover;
 }
+@media (max-width: 424px) {
+  .place__image {
+    min-width: 320px;
+  }
+}

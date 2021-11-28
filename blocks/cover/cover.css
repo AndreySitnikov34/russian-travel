@@ -5,10 +5,6 @@
   min-height: 740px;
   margin-top: 92px;
 }
-.cover:hover {
-  background-color: rgba(42, 44, 47, 0.8);
-  /* border: 5px dotted white; */
-}
 @media (max-width: 1279px) {
   .cover {
     max-width: 1024px;
@@ -21,13 +17,11 @@
     max-width: 768px;
     min-height: 480px;
     margin-top: 6.9vh;
-    /* min-height: 50vh; */
   }
 }
 
 @media (max-width: 767px) {
   .cover {
-    /* margin-top: 75px;   */
     max-width: 100%;
     min-height: calc(100vw / 1.6);
     margin: 0;
@@ -39,6 +33,6 @@
   .cover {
     min-width: 320px;
     min-height: 200px;
-    margin-top: 4vh;
+    margin-top: 39.5px;
   }
 }

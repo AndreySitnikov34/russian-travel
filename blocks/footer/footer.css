@@ -1,7 +1,7 @@
 .footer {
   width: 92.5%;
   max-width: 1184px;
-  margin: 94px auto 24px;
+  margin: 92px auto 24px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -15,7 +15,7 @@
 @media (max-width: 1023px) {
   .footer {
     width: 94%;
-    margin: 8.8vh auto 2vh;
+    margin: 88px auto 24px;
   }
 }
 @media (max-width: 600px) {
@@ -27,6 +27,6 @@
 @media (max-width: 424px) {
   .footer {
     width: 90%;
-    margin-top: 5vh;
+    margin-top: 48px;
   }
 }

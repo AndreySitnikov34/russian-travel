@@ -1,5 +1,5 @@
 .lead__caption {
-  margin: 0.9vh 0 0 1.5vw;
+  margin: 8px 0 0 1.5vw;
   padding: 0;
   width: auto;
   align-self: flex-start;
@@ -14,12 +14,12 @@
 }
 @media (max-width: 1279px) {
   .lead__caption {
-    margin: 0.8vh 0;
+    margin: 8px 0;
   }
 }
 @media (max-width: 1023px) {
   .lead__caption {
-    margin: 0.9vh 0 0 3vw;
+    margin: 8px 0 0 3vw;
   }
 }
 @media (max-width: 767px) {

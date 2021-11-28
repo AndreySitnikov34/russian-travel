@@ -1,26 +1,28 @@
 .places {
-  width: 77%;
-  margin: 0 auto;
+  width: 984px;
+  margin: 92px auto 0;
 }
 @media (max-width: 1279px) {
   .places {
-    width: auto;
-    margin: 9.5vh 48px 0;
-    /* margin: 0 48px; */
+    width: 928px;
+    /* margin: 92px 48px 0; */
   }
 }
 @media (max-width: 1023px) {
   .places {
-    margin: 9.4vh 24px 0;
+    width: 720px;
+    margin: 88px auto 0;
   }
 }
 @media (max-width: 767px) {
   .places {
-    margin: 24px;
+    width: 90%;
+    margin: 24px auto 0;
   }
 }
 @media (max-width: 424px) {
   .places {
-    margin: 6.8vh 0 0;
+    width: 320px;
+    margin: 64px 0 0;
   }
 }

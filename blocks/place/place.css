@@ -1,6 +1,6 @@
 .place {
-  margin: 0;
-  padding-top: 77.5px;
+  margin: 0 auto;
+  margin-bottom: 80px;
   width: auto;
   display: grid;
   box-sizing: border-box;
@@ -13,23 +13,24 @@
     grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
     gap: 48px 32px;
     padding: 0;
-    margin-bottom: 7.3vh;
+    margin-bottom: 69px;
+    /* margin-bottom: 80px; */
   }
 }
 @media (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
-    gap: 4.5vh 3.5vw;
-    margin-bottom: 4.95vh;
+    gap: 48px 28px;
+    margin-bottom: 43px;
   }
 }
 @media (max-width: 767px) {
   .place {
-    grid-template-columns: minmax(288px, 1fr) minmax(303px, 1fr);
+    grid-template-columns: minmax(250px, 1fr) minmax(303px, 1fr);
   }
 }
 /* Не могу победить горизонтальный скролл, придётся добавить пару лишних медиазапросов. */
-@media (max-width: 665px) {
+@media (max-width: 652px) {
   .place {
     grid-template-columns: minmax(250px, 1fr) minmax(263px, 1fr);
   }
@@ -37,7 +38,7 @@
 /* Для эксперимента */
 @media (max-width: 600px) {
   .place {
-    grid-template-columns: minmax(320px, 1fr);
+    grid-template-columns: minmax(290px, 1fr);
     gap: 32px;
   }
 }
@@ -45,7 +46,7 @@
   .place {
     grid-template-columns: minmax(288px, 1fr);
     gap: 31px;
-    margin-bottom: 2.4vh;
+    margin-bottom: 16.5px;
   }
   .place:last-child {
     margin: 0;

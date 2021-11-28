@@ -16,7 +16,7 @@
 @media (max-width: 1023px) {
   .intro {
     max-width: 1024px;
-    margin: 9.2vh 3vw 0;
+    margin: 88px 3vw 0;
   }
 }
 @media (max-width: 767px) {
@@ -27,6 +27,6 @@
 }
 @media (max-width: 424px) {
   .intro {
-    margin: 6.5vh 16px 0;
+    margin: 64px 16px 0;
   }
 }

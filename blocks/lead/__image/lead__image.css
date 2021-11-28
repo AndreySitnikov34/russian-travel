@@ -1,6 +1,6 @@
 .lead__image {
   margin: 64px auto 0;
-  width: 76vw;
+  width: 984px;
 }
 @media (min-width: 1440px) {
   .lead__image {
@@ -10,7 +10,7 @@
 }
 @media (max-width: 1279px) {
   .lead__image {
-    margin: 6vh auto 0;
+    margin: 56px auto 0;
     width: 100%;
   }
 }
@@ -26,7 +26,8 @@
 }
 @media (max-width: 424px) {
   .lead__image {
-    min-width: 300px;
-    min-height: 190px;
+    margin-top: 42px;
+    min-width: 320px;
+    min-height: 200px;
   }
 }

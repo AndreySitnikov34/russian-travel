@@ -20,7 +20,7 @@
 }
 @media (max-width: 1023px) {
   .lead__subtitle {
-    margin: 35px 17vw 0;
+    margin: 32px 17vw 0;
   }
 }
 @media (max-width: 767px) {
@@ -34,7 +34,7 @@
 @media (max-width: 425px) {
   .lead__subtitle {
     width: 288px;
-    margin: 1.7vh auto 0;
+    margin: 16px auto 0;
     font-size: 16px;
     line-height: 120%;
   }
