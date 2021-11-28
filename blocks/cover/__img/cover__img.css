@@ -7,7 +7,7 @@
   right: 0;
   bottom: 0;
   background-position: 50% 50%;
-  z-index: -1;
+  z-index: 0;
 }
 .cover__img::before {
   content: "";
@@ -17,7 +17,7 @@
   height: 100%;
   background-color: rgba(42, 44, 47, 0.3);
 }
-/* .cover__img:hover::before {
+.cover__img:hover::before {
   background-color: rgba(42, 44, 47, 0.8);
-  border: 5px dotted white;
-} */
+  /* border: 5px dotted white; */
+}
