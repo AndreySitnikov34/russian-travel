@@ -23,3 +23,15 @@
 /* .cover__link:hover::before {
   background-color: rgba(42, 44, 47, 0.8);
 } */
+.cover__link::after {
+  /* max-width: 1184px; */
+  /* background-image: url("../../../images/cover-trains.jpg"); */
+  /* background-size: cover; */
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  /* right: 0; */
+  /* bottom: 0; */
+  /* z-index: -1; */
+  /* border: 1px sold green; */
+}

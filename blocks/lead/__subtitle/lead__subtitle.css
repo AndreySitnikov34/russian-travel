@@ -15,18 +15,18 @@
     width: auto;
     margin: 32px 19vw 0;
     font-size: 30px;
-    line-height: 119%;
+    line-height: 120%;
   }
 }
 @media (max-width: 1023px) {
   .lead__subtitle {
-    margin: 32px 17vw 0;
+    line-height: 36px;
+    margin: 32px 64px 0;
   }
 }
 @media (max-width: 767px) {
   .lead__subtitle {
     width: auto;
-    margin: 32px 64px 0;
     font-size: 4vw;
     line-height: 110%;
   }
